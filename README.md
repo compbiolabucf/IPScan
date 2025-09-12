@@ -14,7 +14,7 @@ IPScan detects two distinct types of IPA events. a) Type-1 (composite): Occurs w
 
 a) IPScan detects novel IPA events and generates peptide sequences from the newly identified truncated isoforms. b) The detection and quantification of differential IPA events between two conditions, with coverage plots showing read coverage flanking the IPA sites in both conditions. 
 
-![IPScan flowchart](Fig2.png))
+![IPScan flowchart](Fig2.png)
 
 ## Installation
 IPScan is developed using Python3. \
