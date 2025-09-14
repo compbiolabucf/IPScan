@@ -115,6 +115,8 @@ The read coverage plot for differential IPA event will look like this:
 
 ![Read coverage plot](Fig3.png)
 
+<img src="https://github.com/compbiolabucf/IPScan/Fig3.png" alt="Read coverage plot" width="300" height="200">
+
 # Contact the Author
 Naima Ahmed Fahmi: naima.ahmed.fahmi@ucf.edu
 Wei Zhang: wzhang.cs@ucf.edu
