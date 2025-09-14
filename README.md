@@ -20,7 +20,7 @@ a) IPScan detects novel IPA events and generates peptide sequences from the newl
 IPScan is developed using Python3. \
 Install the following software pre-requisites: \
     1. python3 packages: itertools, pandas, numpy, collections, multiprocessing, scipy, argparse, os, warnings, and subprocess
-    2. Clone the lastest development version of IPScan from the github repository: git clone https://github.com/naima-fahmi/IPScan.git
+    2. Clone the lastest development version of IPScan from the github repository: git clone https://github.com/compbiolabucf/IPScan.git
 
 ## Usage
 IPScan pipeline contains 2 python scripts: \
