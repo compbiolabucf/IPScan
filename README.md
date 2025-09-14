@@ -113,12 +113,7 @@ make_plots.py will generate read coverage plots for both --single and --differen
 
 The read coverage plot for differential IPA event will look like this:
 
-![Read coverage plot](https://assets.digitalocean.com/articles/alligator/boo.svg "Differential IPA site usage")
-
-# Citation
-Please use the following information for citation: \
-    1. aaaaaa
-    2. bbbbbb
+![Read coverage plot](Fig3.png)
 
 # Contact the Author
 Naima Ahmed Fahmi: naima.ahmed.fahmi@ucf.edu
