@@ -14,7 +14,7 @@ IPScan detects two distinct types of IPA events. a) Type-1 (composite): Occurs w
 
 a) IPScan detects novel IPA events and generates peptide sequences from the newly identified truncated isoforms. b) The detection and quantification of differential IPA events between two conditions, with coverage plots showing read coverage flanking the IPA sites in both conditions. 
 
-<img src="Fig2.png" alt="IPScan flowchart" width="400" height="500">
+<img src="Fig2.png" alt="IPScan flowchart" width="500" height="600">
 
 ## Installation
 IPScan is developed using Python3. \
@@ -111,7 +111,7 @@ make_plots.py will generate read coverage plots for both --single and --differen
     Please enter the region: [format: chrom: start - end: position]
 
 The read coverage plot for differential IPA event will look like this:
-<img src="Fig3.png" alt="Read coverage plot" width="500" height="300">
+<img src="Fig3.png" alt="Read coverage plot" width="400" height="250">
 
 # Contact the Author
 Naima Ahmed Fahmi: naima.ahmed.fahmi@ucf.edu
